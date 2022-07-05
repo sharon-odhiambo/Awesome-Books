@@ -16,7 +16,8 @@ HTML
 ### Getting Started
 To get a local copy for practice or as a template, follow these simple steps.
 
-Access the live source on - https://github.com/sharon-odhiambo/Awesome-Books/tree/
+Access the live source on -https://github.com/sharon-odhiambo/Awesome-Books
+
 Copy the **https** or **SSH** address on the code
 Clone the repository using your editor   
 
