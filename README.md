@@ -16,11 +16,11 @@ HTML
 ### Getting Started
 To get a local copy for practice or as a template, follow these simple steps.
 
-Access the live source on - https://github.com/TuyishimireEric/Awesome-Book
+Access the live source on - https://github.com/sharon-odhiambo/Awesome-Books/tree/
 Copy the **https** or **SSH** address on the code
 Clone the repository using your editor   
 
-## Author 1
+## Authors
 
 👤 **Eric Tuyishimire**
 👤 **Sharon Odhiambo**
